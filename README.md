@@ -13,7 +13,7 @@ License
 
 # Features
 Displays real-time cryptocurrency prices in INR (Indian Rupees)
-Supports 10+ cryptocurrencies, including Bitcoin, Ethereum, Ripple, etc.
+Displays top 10 cryptocurrencies from wazirx platform, including Bitcoin, Ethereum, Ripple, etc.
 Simple and intuitive UI design
 
 # Installation
